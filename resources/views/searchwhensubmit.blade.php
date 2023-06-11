@@ -22,7 +22,7 @@
        <div class="row mt-5"> 
         
                 <div class="col-md-6 mx-auto">
-                    @livewire('live-search')
+                    @livewire('live-search-form')
                 </div>
             </div>
         @livewireScripts

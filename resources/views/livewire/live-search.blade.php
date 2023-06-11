@@ -1,5 +1,6 @@
 <div>
-    <h1>Find a Contact</h1>
+    <h1 class="text-center font-weight-light">Exapmle 1 : Live Search</h1>         
+    <h2>Find a Contact</h2>
     <div class="input-group mb-3">
         <input type="text" wire:model="name" class="form-control" placeholder="Friend's name" aria-label="Friend's name" aria-describedby="basic-addon2" autocomplete="off">
         <div class="input-group-append">
